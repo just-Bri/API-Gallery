@@ -1,0 +1,2107 @@
+[
+    {
+        "sha": "7eedfcc6cf362af8c7363809d50e64d0aa636464",
+        "commit": {
+            "author": {
+                "name": "Pierre Brisorgueil",
+                "email": "pierrebrisorgueil@me.com",
+                "date": "2017-04-20T19:53:01Z"
+            },
+            "committer": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-20T19:53:01Z"
+            },
+            "message": "chore(documentation): add comment to remind  change for mongo replicaset connection\n\n* fix(users): test for usernameOrEmail\r\n\r\n* Add comment to remind  change for mongo replicaset connection\r\n\r\n* clean comment ..\r\n\r\n* Generic pageTitle concept\r\n\r\n* Revert \"Generic pageTitle concept\"\r\n\r\nThis reverts commit ff00ec950f085ca3b6d1abb564eab1965ab0a56e.\r\n\r\n* align on meanjs state\r\n\r\n* comment to remember replicaset connexion\r\n\r\n* fix atom beautify newline\r\n\r\n* clean",
+            "tree": {
+                "sha": "9183c572d489ab314b570a169a6b57751466a7ff",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/9183c572d489ab314b570a169a6b57751466a7ff"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/7eedfcc6cf362af8c7363809d50e64d0aa636464",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/7eedfcc6cf362af8c7363809d50e64d0aa636464",
+        "html_url": "https://github.com/meanjs/mean/commit/7eedfcc6cf362af8c7363809d50e64d0aa636464",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/7eedfcc6cf362af8c7363809d50e64d0aa636464/comments",
+        "author": {
+            "login": "PierreBrisorgueil",
+            "id": 6069599,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/6069599?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/PierreBrisorgueil",
+            "html_url": "https://github.com/PierreBrisorgueil",
+            "followers_url": "https://api.github.com/users/PierreBrisorgueil/followers",
+            "following_url": "https://api.github.com/users/PierreBrisorgueil/following{/other_user}",
+            "gists_url": "https://api.github.com/users/PierreBrisorgueil/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/PierreBrisorgueil/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/PierreBrisorgueil/subscriptions",
+            "organizations_url": "https://api.github.com/users/PierreBrisorgueil/orgs",
+            "repos_url": "https://api.github.com/users/PierreBrisorgueil/repos",
+            "events_url": "https://api.github.com/users/PierreBrisorgueil/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/PierreBrisorgueil/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+                "html_url": "https://github.com/meanjs/mean/commit/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1"
+      }
+    ]
+  },
+    {
+        "sha": "9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-11T10:08:02Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-11T10:08:02Z"
+            },
+            "message": "build(gems): we shouldnt need any gem file installations anymore (#1759)",
+            "tree": {
+                "sha": "98ad64c39a057c569433bfdb6d49d1b6264f3c77",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/98ad64c39a057c569433bfdb6d49d1b6264f3c77"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+        "html_url": "https://github.com/meanjs/mean/commit/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/9c3a4f53bc92b182805ab85c05b8a624f8d1ead1/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+                "html_url": "https://github.com/meanjs/mean/commit/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa"
+      }
+    ]
+  },
+    {
+        "sha": "5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-09T06:28:20Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-09T06:28:20Z"
+            },
+            "message": "fix(dependencies): moving phantomjs-prebuild to devDependencies (#1754)",
+            "tree": {
+                "sha": "b44cffd8d27bcce6a66240e4df6f474a552f5435",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/b44cffd8d27bcce6a66240e4df6f474a552f5435"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+        "html_url": "https://github.com/meanjs/mean/commit/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/5f9e0188dcbc83d4cb4822a779c38f33f98f6cfa/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "73135df49fbf14e966b951a4586ce77bf84e5176",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/73135df49fbf14e966b951a4586ce77bf84e5176",
+                "html_url": "https://github.com/meanjs/mean/commit/73135df49fbf14e966b951a4586ce77bf84e5176"
+      }
+    ]
+  },
+    {
+        "sha": "73135df49fbf14e966b951a4586ce77bf84e5176",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-09T05:40:48Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-09T05:40:48Z"
+            },
+            "message": "fix(protractor): support for gulp-protractor for v6-7 only (#1752)\n\n* fix(protractor): updating gulp-protractor\r\n* re-factoring out protractor prep tasks",
+            "tree": {
+                "sha": "38e1329431281f4d83aa7ca6a98ab20bb5b47a59",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/38e1329431281f4d83aa7ca6a98ab20bb5b47a59"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/73135df49fbf14e966b951a4586ce77bf84e5176",
+            "comment_count": 2
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/73135df49fbf14e966b951a4586ce77bf84e5176",
+        "html_url": "https://github.com/meanjs/mean/commit/73135df49fbf14e966b951a4586ce77bf84e5176",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/73135df49fbf14e966b951a4586ce77bf84e5176/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+                "html_url": "https://github.com/meanjs/mean/commit/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d"
+      }
+    ]
+  },
+    {
+        "sha": "e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-08T15:28:49Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-08T15:28:49Z"
+            },
+            "message": "fix(dependencies): upgrading dependencies to latest versions (#1753)\n\n* fix(dependencies): upgrading dependencies to latest versions",
+            "tree": {
+                "sha": "8804e833935e350e75da5510951ebd61b4fad4fc",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/8804e833935e350e75da5510951ebd61b4fad4fc"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+        "html_url": "https://github.com/meanjs/mean/commit/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/e5d7f15b0597802298621bbf1f0ec7ceb77a0c1d/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+                "html_url": "https://github.com/meanjs/mean/commit/e596375b62e65dfac7cf4154aa20c7cfd3207c75"
+      }
+    ]
+  },
+    {
+        "sha": "e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-08T08:49:38Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-08T08:49:38Z"
+            },
+            "message": "fix(tests): removing unused mock-fs library which caused tests to fail (#1751)",
+            "tree": {
+                "sha": "b142aec1c6c19bc746f172c10c8e9cfb70fd226f",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/b142aec1c6c19bc746f172c10c8e9cfb70fd226f"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+        "html_url": "https://github.com/meanjs/mean/commit/e596375b62e65dfac7cf4154aa20c7cfd3207c75",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/e596375b62e65dfac7cf4154aa20c7cfd3207c75/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+                "html_url": "https://github.com/meanjs/mean/commit/817c4e3cdf3c5247bebe7e8e53631f726a59f85b"
+      }
+    ]
+  },
+    {
+        "sha": "817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-07T16:35:29Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-07T16:35:29Z"
+            },
+            "message": "fix(snyk): disabling snyk until we resolve insecure deps & snyk integration\n\n* fix(snyk): disabling snyk until we resolve insecure deps & snyk integration\r\n\r\n* update serve-favicon dep\r\n* updating packages",
+            "tree": {
+                "sha": "f60dba5425ef00266a199d4e5c8291d04a92008f",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/f60dba5425ef00266a199d4e5c8291d04a92008f"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+        "html_url": "https://github.com/meanjs/mean/commit/817c4e3cdf3c5247bebe7e8e53631f726a59f85b",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/817c4e3cdf3c5247bebe7e8e53631f726a59f85b/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "994369d7bb902e407a34049e76b152fec14a36da",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/994369d7bb902e407a34049e76b152fec14a36da",
+                "html_url": "https://github.com/meanjs/mean/commit/994369d7bb902e407a34049e76b152fec14a36da"
+      }
+    ]
+  },
+    {
+        "sha": "994369d7bb902e407a34049e76b152fec14a36da",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-07T10:19:06Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-07T10:19:06Z"
+            },
+            "message": "fix(node-inspector): deprecating node-inspector infavor of native nodejs debug (#1744)",
+            "tree": {
+                "sha": "454a8bbfad29e50eeed2fe9a0f506c82b95c0d4a",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/454a8bbfad29e50eeed2fe9a0f506c82b95c0d4a"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/994369d7bb902e407a34049e76b152fec14a36da",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/994369d7bb902e407a34049e76b152fec14a36da",
+        "html_url": "https://github.com/meanjs/mean/commit/994369d7bb902e407a34049e76b152fec14a36da",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/994369d7bb902e407a34049e76b152fec14a36da/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+                "html_url": "https://github.com/meanjs/mean/commit/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c"
+      }
+    ]
+  },
+    {
+        "sha": "d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2017-04-07T05:58:49Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2017-04-07T05:58:49Z"
+            },
+            "message": "fix(snyk): travis snyk setup with snyk auth (#1749)\n\n* fix(snyk): travis snyk setup",
+            "tree": {
+                "sha": "2d7dca31bd913bf9d5a04809f94b35e7c538ffe5",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/2d7dca31bd913bf9d5a04809f94b35e7c538ffe5"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+        "html_url": "https://github.com/meanjs/mean/commit/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/d7b6d952251b44638e246aeb6cbfbe6acbc14e3c/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f8384040a4d3a583e8f8343b758a68cf710c6783",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/f8384040a4d3a583e8f8343b758a68cf710c6783",
+                "html_url": "https://github.com/meanjs/mean/commit/f8384040a4d3a583e8f8343b758a68cf710c6783"
+      }
+    ]
+  },
+    {
+        "sha": "f8384040a4d3a583e8f8343b758a68cf710c6783",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-12-25T09:23:57Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-12-25T09:23:57Z"
+            },
+            "message": "fix(mongoose): fixing mongoose deprecation notice for promises lib (#1691)\n\nIf no promises library set correctly for the mongoose.Promise property then the following warning notice is omitted by mongoose:\r\n`DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html`",
+            "tree": {
+                "sha": "8cb3ed922999b306cb038f5ea4f55ed50b664cfd",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/8cb3ed922999b306cb038f5ea4f55ed50b664cfd"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/f8384040a4d3a583e8f8343b758a68cf710c6783",
+            "comment_count": 1
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/f8384040a4d3a583e8f8343b758a68cf710c6783",
+        "html_url": "https://github.com/meanjs/mean/commit/f8384040a4d3a583e8f8343b758a68cf710c6783",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/f8384040a4d3a583e8f8343b758a68cf710c6783/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+                "html_url": "https://github.com/meanjs/mean/commit/f53db0f2e24c5de67bc43566e1103cf7d53edf80"
+      }
+    ]
+  },
+    {
+        "sha": "f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+        "commit": {
+            "author": {
+                "name": "Laurence Tennant",
+                "email": "hyperreality@users.noreply.github.com",
+                "date": "2016-12-14T02:51:19Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-12-14T02:51:19Z"
+            },
+            "message": "Better autofocus (#1664)",
+            "tree": {
+                "sha": "0c28da94bdfdaab199395bfdf4f056e77b11f810",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/0c28da94bdfdaab199395bfdf4f056e77b11f810"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+        "html_url": "https://github.com/meanjs/mean/commit/f53db0f2e24c5de67bc43566e1103cf7d53edf80",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/f53db0f2e24c5de67bc43566e1103cf7d53edf80/comments",
+        "author": {
+            "login": "hyperreality",
+            "id": 6343433,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6343433?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/hyperreality",
+            "html_url": "https://github.com/hyperreality",
+            "followers_url": "https://api.github.com/users/hyperreality/followers",
+            "following_url": "https://api.github.com/users/hyperreality/following{/other_user}",
+            "gists_url": "https://api.github.com/users/hyperreality/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/hyperreality/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/hyperreality/subscriptions",
+            "organizations_url": "https://api.github.com/users/hyperreality/orgs",
+            "repos_url": "https://api.github.com/users/hyperreality/repos",
+            "events_url": "https://api.github.com/users/hyperreality/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/hyperreality/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d37b60376792bd16897e34ed77d1031cd676e289",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/d37b60376792bd16897e34ed77d1031cd676e289",
+                "html_url": "https://github.com/meanjs/mean/commit/d37b60376792bd16897e34ed77d1031cd676e289"
+      }
+    ]
+  },
+    {
+        "sha": "d37b60376792bd16897e34ed77d1031cd676e289",
+        "commit": {
+            "author": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-11-21T00:54:24Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-11-21T00:54:24Z"
+            },
+            "message": "Incorrect production assets (#1647)\n\nRemoved the ng-img-crop references from the production assets\r\nconfiguration, since the library has been removed from the project.\r\n\r\nAlso, re-ordered the CSS section to be in alphabetical order.",
+            "tree": {
+                "sha": "57be8b4bc5ae79821e088741ac85e192fb05739f",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/57be8b4bc5ae79821e088741ac85e192fb05739f"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/d37b60376792bd16897e34ed77d1031cd676e289",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/d37b60376792bd16897e34ed77d1031cd676e289",
+        "html_url": "https://github.com/meanjs/mean/commit/d37b60376792bd16897e34ed77d1031cd676e289",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/d37b60376792bd16897e34ed77d1031cd676e289/comments",
+        "author": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2b6cf53d3002d9d896fcca69dc4b626759056f54",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/2b6cf53d3002d9d896fcca69dc4b626759056f54",
+                "html_url": "https://github.com/meanjs/mean/commit/2b6cf53d3002d9d896fcca69dc4b626759056f54"
+      }
+    ]
+  },
+    {
+        "sha": "2b6cf53d3002d9d896fcca69dc4b626759056f54",
+        "commit": {
+            "author": {
+                "name": "Laurence Tennant",
+                "email": "hyperreality@users.noreply.github.com",
+                "date": "2016-11-15T23:59:47Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-11-15T23:59:47Z"
+            },
+            "message": "fix(users): Better MIME-type checking, remove image cropping library (#1589)\n\n* Cropping remove, nicer UI\r\n\r\n* Fix MIME-type checking, add image upload tests\r\n\r\n* Change image config settings to uploads.profile.image to build a more\r\nrational structure for configuring other types of uploads",
+            "tree": {
+                "sha": "76fa1b5777fae6f604f3c3aad51a38f18ae89e25",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/76fa1b5777fae6f604f3c3aad51a38f18ae89e25"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/2b6cf53d3002d9d896fcca69dc4b626759056f54",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/2b6cf53d3002d9d896fcca69dc4b626759056f54",
+        "html_url": "https://github.com/meanjs/mean/commit/2b6cf53d3002d9d896fcca69dc4b626759056f54",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/2b6cf53d3002d9d896fcca69dc4b626759056f54/comments",
+        "author": {
+            "login": "hyperreality",
+            "id": 6343433,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6343433?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/hyperreality",
+            "html_url": "https://github.com/hyperreality",
+            "followers_url": "https://api.github.com/users/hyperreality/followers",
+            "following_url": "https://api.github.com/users/hyperreality/following{/other_user}",
+            "gists_url": "https://api.github.com/users/hyperreality/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/hyperreality/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/hyperreality/subscriptions",
+            "organizations_url": "https://api.github.com/users/hyperreality/orgs",
+            "repos_url": "https://api.github.com/users/hyperreality/repos",
+            "events_url": "https://api.github.com/users/hyperreality/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/hyperreality/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e62b6808e033788feaeffbe691b711d1e9ce7931",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/e62b6808e033788feaeffbe691b711d1e9ce7931",
+                "html_url": "https://github.com/meanjs/mean/commit/e62b6808e033788feaeffbe691b711d1e9ce7931"
+      }
+    ]
+  },
+    {
+        "sha": "e62b6808e033788feaeffbe691b711d1e9ce7931",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-30T19:26:29Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-30T19:26:29Z"
+            },
+            "message": "feat(docker): cleaning up pkgs and enabling npm install for dev env (#1603)",
+            "tree": {
+                "sha": "77d5b509514cb0998066694aa27253f082f30761",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/77d5b509514cb0998066694aa27253f082f30761"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/e62b6808e033788feaeffbe691b711d1e9ce7931",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/e62b6808e033788feaeffbe691b711d1e9ce7931",
+        "html_url": "https://github.com/meanjs/mean/commit/e62b6808e033788feaeffbe691b711d1e9ce7931",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/e62b6808e033788feaeffbe691b711d1e9ce7931/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "502143b2121da2d41ec0585910bd1c9fbba4764a",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/502143b2121da2d41ec0585910bd1c9fbba4764a",
+                "html_url": "https://github.com/meanjs/mean/commit/502143b2121da2d41ec0585910bd1c9fbba4764a"
+      }
+    ]
+  },
+    {
+        "sha": "502143b2121da2d41ec0585910bd1c9fbba4764a",
+        "commit": {
+            "author": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-29T20:24:11Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-29T20:24:11Z"
+            },
+            "message": "fix(config): Default env config lint error (#1604)\n\nFixes linting errors thrown from incorrect spacing in the default\r\nenvironment config. Incorrect spacing at the `illegalUsernames` config\r\nsetting.",
+            "tree": {
+                "sha": "1e4e5c5ce65c371dbba51fb2900785ac6b4612bc",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/1e4e5c5ce65c371dbba51fb2900785ac6b4612bc"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/502143b2121da2d41ec0585910bd1c9fbba4764a",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/502143b2121da2d41ec0585910bd1c9fbba4764a",
+        "html_url": "https://github.com/meanjs/mean/commit/502143b2121da2d41ec0585910bd1c9fbba4764a",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/502143b2121da2d41ec0585910bd1c9fbba4764a/comments",
+        "author": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+                "html_url": "https://github.com/meanjs/mean/commit/d47dd4110806874f94d6ffb165ce88bfe4487cfa"
+      }
+    ]
+  },
+    {
+        "sha": "d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+        "commit": {
+            "author": {
+                "name": "shanavas",
+                "email": "shanavas.m2@gmail.com",
+                "date": "2016-10-29T18:30:46Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-29T18:30:46Z"
+            },
+            "message": "feat(build): Ignore compiled sass/less files from git (#1592)\n\n* Compile sass/less files to appropriate directories\r\n\r\n* Include compiled sass/less files in asset\r\n\r\n* Ignore compiled sass/less files",
+            "tree": {
+                "sha": "a05da600ec0cd7f4bea465b5da7ce22d9e9574d6",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/a05da600ec0cd7f4bea465b5da7ce22d9e9574d6"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+        "html_url": "https://github.com/meanjs/mean/commit/d47dd4110806874f94d6ffb165ce88bfe4487cfa",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/d47dd4110806874f94d6ffb165ce88bfe4487cfa/comments",
+        "author": {
+            "login": "shanavas786",
+            "id": 5337197,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5337197?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/shanavas786",
+            "html_url": "https://github.com/shanavas786",
+            "followers_url": "https://api.github.com/users/shanavas786/followers",
+            "following_url": "https://api.github.com/users/shanavas786/following{/other_user}",
+            "gists_url": "https://api.github.com/users/shanavas786/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/shanavas786/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/shanavas786/subscriptions",
+            "organizations_url": "https://api.github.com/users/shanavas786/orgs",
+            "repos_url": "https://api.github.com/users/shanavas786/repos",
+            "events_url": "https://api.github.com/users/shanavas786/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/shanavas786/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "aed62359ec31906722ada9c4132875a8287fab15",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/aed62359ec31906722ada9c4132875a8287fab15",
+                "html_url": "https://github.com/meanjs/mean/commit/aed62359ec31906722ada9c4132875a8287fab15"
+      }
+    ]
+  },
+    {
+        "sha": "aed62359ec31906722ada9c4132875a8287fab15",
+        "commit": {
+            "author": {
+                "name": "Mikael Korpela",
+                "email": "mikael@ihminen.org",
+                "date": "2016-10-25T23:47:15Z"
+            },
+            "committer": {
+                "name": "Cody B. Daig",
+                "email": "codydaig@users.noreply.github.com",
+                "date": "2016-10-25T23:47:15Z"
+            },
+            "message": "feat(ci): Test for Node v7 (allow failure) (#1596)",
+            "tree": {
+                "sha": "66b1dc8629c91789142f74159b47594e7ae691be",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/66b1dc8629c91789142f74159b47594e7ae691be"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/aed62359ec31906722ada9c4132875a8287fab15",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/aed62359ec31906722ada9c4132875a8287fab15",
+        "html_url": "https://github.com/meanjs/mean/commit/aed62359ec31906722ada9c4132875a8287fab15",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/aed62359ec31906722ada9c4132875a8287fab15/comments",
+        "author": {
+            "login": "simison",
+            "id": 87168,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/87168?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/simison",
+            "html_url": "https://github.com/simison",
+            "followers_url": "https://api.github.com/users/simison/followers",
+            "following_url": "https://api.github.com/users/simison/following{/other_user}",
+            "gists_url": "https://api.github.com/users/simison/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/simison/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/simison/subscriptions",
+            "organizations_url": "https://api.github.com/users/simison/orgs",
+            "repos_url": "https://api.github.com/users/simison/repos",
+            "events_url": "https://api.github.com/users/simison/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/simison/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "codydaig",
+            "id": 2314748,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/2314748?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/codydaig",
+            "html_url": "https://github.com/codydaig",
+            "followers_url": "https://api.github.com/users/codydaig/followers",
+            "following_url": "https://api.github.com/users/codydaig/following{/other_user}",
+            "gists_url": "https://api.github.com/users/codydaig/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/codydaig/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/codydaig/subscriptions",
+            "organizations_url": "https://api.github.com/users/codydaig/orgs",
+            "repos_url": "https://api.github.com/users/codydaig/repos",
+            "events_url": "https://api.github.com/users/codydaig/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/codydaig/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "99496e6c1acf03f70cf1d968b377191cda03559c",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/99496e6c1acf03f70cf1d968b377191cda03559c",
+                "html_url": "https://github.com/meanjs/mean/commit/99496e6c1acf03f70cf1d968b377191cda03559c"
+      }
+    ]
+  },
+    {
+        "sha": "99496e6c1acf03f70cf1d968b377191cda03559c",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-21T15:32:54Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-21T15:32:54Z"
+            },
+            "message": "fix(core): updating instructions on how to generate the changelog for releases (#1587)",
+            "tree": {
+                "sha": "d4037197efd17778ce53ea5da79d7501a6c5b770",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/d4037197efd17778ce53ea5da79d7501a6c5b770"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/99496e6c1acf03f70cf1d968b377191cda03559c",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/99496e6c1acf03f70cf1d968b377191cda03559c",
+        "html_url": "https://github.com/meanjs/mean/commit/99496e6c1acf03f70cf1d968b377191cda03559c",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/99496e6c1acf03f70cf1d968b377191cda03559c/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+                "html_url": "https://github.com/meanjs/mean/commit/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1"
+      }
+    ]
+  },
+    {
+        "sha": "fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-21T15:15:06Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-21T15:15:06Z"
+            },
+            "message": "* chore(release): bumping to version 0.5.0\n\nBumping to version 0.5.0 (#1586)\r\n* chore(core): updating changelog",
+            "tree": {
+                "sha": "0d15fda1f42a19ada70a5893ed2dbe23a2bc906e",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/0d15fda1f42a19ada70a5893ed2dbe23a2bc906e"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+        "html_url": "https://github.com/meanjs/mean/commit/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/fd154c7f61a1b9c9a1ea0d4f1f1e5fa1cb967da1/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+                "html_url": "https://github.com/meanjs/mean/commit/fb9d9d912cc905c2a7ada426a432dcf6b7462851"
+      }
+    ]
+  },
+    {
+        "sha": "fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+        "commit": {
+            "author": {
+                "name": "Sujeeth",
+                "email": "sujeethkv@yahoo.com",
+                "date": "2016-10-20T03:40:26Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-20T03:40:26Z"
+            },
+            "message": "feat(user): add strict validations for username (#1574)\n\nIdea proposed by @sparshy #1204\r\nSuggestions, rules and tests from Trustroots @simison\r\nAdded validations on user server model\r\nAdded client side validations\r\nAdded relevant tests on user server tests\r\nAdded relevant tests on user e2e tests\r\n\r\nFixes #1204",
+            "tree": {
+                "sha": "e91c73bf65f5beb63cbc24d1540e00a5940140af",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/e91c73bf65f5beb63cbc24d1540e00a5940140af"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+        "html_url": "https://github.com/meanjs/mean/commit/fb9d9d912cc905c2a7ada426a432dcf6b7462851",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/fb9d9d912cc905c2a7ada426a432dcf6b7462851/comments",
+        "author": {
+            "login": "sujeethk",
+            "id": 19917701,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19917701?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/sujeethk",
+            "html_url": "https://github.com/sujeethk",
+            "followers_url": "https://api.github.com/users/sujeethk/followers",
+            "following_url": "https://api.github.com/users/sujeethk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/sujeethk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/sujeethk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/sujeethk/subscriptions",
+            "organizations_url": "https://api.github.com/users/sujeethk/orgs",
+            "repos_url": "https://api.github.com/users/sujeethk/repos",
+            "events_url": "https://api.github.com/users/sujeethk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/sujeethk/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+                "html_url": "https://github.com/meanjs/mean/commit/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f"
+      }
+    ]
+  },
+    {
+        "sha": "0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+        "commit": {
+            "author": {
+                "name": "itelo",
+                "email": "itelofilho@gmail.com",
+                "date": "2016-10-20T00:12:47Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-20T00:12:47Z"
+            },
+            "message": "fix(users): fix redirect when signup or add provider (#1573)\n\nFixes the issue of the redirect after Social login authentication, on signup or user profile add provider.",
+            "tree": {
+                "sha": "c2fe13a920bd659dd26fc87053b1f3c7eb5d970e",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/c2fe13a920bd659dd26fc87053b1f3c7eb5d970e"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+        "html_url": "https://github.com/meanjs/mean/commit/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/0e2ea65918358eb9cd6fe78c9f8650ab9a6e579f/comments",
+        "author": {
+            "login": "itelo",
+            "id": 11433064,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/11433064?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/itelo",
+            "html_url": "https://github.com/itelo",
+            "followers_url": "https://api.github.com/users/itelo/followers",
+            "following_url": "https://api.github.com/users/itelo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/itelo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/itelo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/itelo/subscriptions",
+            "organizations_url": "https://api.github.com/users/itelo/orgs",
+            "repos_url": "https://api.github.com/users/itelo/repos",
+            "events_url": "https://api.github.com/users/itelo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/itelo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ae638893b24709032821310bd0b1d0c7cf80fdd4",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/ae638893b24709032821310bd0b1d0c7cf80fdd4",
+                "html_url": "https://github.com/meanjs/mean/commit/ae638893b24709032821310bd0b1d0c7cf80fdd4"
+      }
+    ]
+  },
+    {
+        "sha": "ae638893b24709032821310bd0b1d0c7cf80fdd4",
+        "commit": {
+            "author": {
+                "name": "Pierre Brisorgueil",
+                "email": "pierrebrisorgueil@me.com",
+                "date": "2016-10-19T15:59:45Z"
+            },
+            "committer": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-19T15:59:45Z"
+            },
+            "message": "fix(users): test for usernameOrEmail (#1582)",
+            "tree": {
+                "sha": "f9735c93d9153bda8ffc264e4a4d1fde31f886a6",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/f9735c93d9153bda8ffc264e4a4d1fde31f886a6"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/ae638893b24709032821310bd0b1d0c7cf80fdd4",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/ae638893b24709032821310bd0b1d0c7cf80fdd4",
+        "html_url": "https://github.com/meanjs/mean/commit/ae638893b24709032821310bd0b1d0c7cf80fdd4",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/ae638893b24709032821310bd0b1d0c7cf80fdd4/comments",
+        "author": {
+            "login": "PierreBrisorgueil",
+            "id": 6069599,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/6069599?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/PierreBrisorgueil",
+            "html_url": "https://github.com/PierreBrisorgueil",
+            "followers_url": "https://api.github.com/users/PierreBrisorgueil/followers",
+            "following_url": "https://api.github.com/users/PierreBrisorgueil/following{/other_user}",
+            "gists_url": "https://api.github.com/users/PierreBrisorgueil/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/PierreBrisorgueil/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/PierreBrisorgueil/subscriptions",
+            "organizations_url": "https://api.github.com/users/PierreBrisorgueil/orgs",
+            "repos_url": "https://api.github.com/users/PierreBrisorgueil/repos",
+            "events_url": "https://api.github.com/users/PierreBrisorgueil/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/PierreBrisorgueil/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "0773991ed75307840b68918c6f271ee4ac529b5a",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/0773991ed75307840b68918c6f271ee4ac529b5a",
+                "html_url": "https://github.com/meanjs/mean/commit/0773991ed75307840b68918c6f271ee4ac529b5a"
+      }
+    ]
+  },
+    {
+        "sha": "0773991ed75307840b68918c6f271ee4ac529b5a",
+        "commit": {
+            "author": {
+                "name": "Anton Drukh",
+                "email": "adrukh@users.noreply.github.com",
+                "date": "2016-10-19T15:55:08Z"
+            },
+            "committer": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-19T15:55:08Z"
+            },
+            "message": "doc(readme): wear the Snyk badge with pride! (#1583)",
+            "tree": {
+                "sha": "77dcd936b4843061edaf1644c4082757a6bdcb1a",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/77dcd936b4843061edaf1644c4082757a6bdcb1a"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/0773991ed75307840b68918c6f271ee4ac529b5a",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/0773991ed75307840b68918c6f271ee4ac529b5a",
+        "html_url": "https://github.com/meanjs/mean/commit/0773991ed75307840b68918c6f271ee4ac529b5a",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/0773991ed75307840b68918c6f271ee4ac529b5a/comments",
+        "author": {
+            "login": "adrukh",
+            "id": 1489979,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/1489979?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adrukh",
+            "html_url": "https://github.com/adrukh",
+            "followers_url": "https://api.github.com/users/adrukh/followers",
+            "following_url": "https://api.github.com/users/adrukh/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adrukh/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adrukh/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adrukh/subscriptions",
+            "organizations_url": "https://api.github.com/users/adrukh/orgs",
+            "repos_url": "https://api.github.com/users/adrukh/repos",
+            "events_url": "https://api.github.com/users/adrukh/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adrukh/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "0638294bac9517f56522a2608e5288085a5fb061",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/0638294bac9517f56522a2608e5288085a5fb061",
+                "html_url": "https://github.com/meanjs/mean/commit/0638294bac9517f56522a2608e5288085a5fb061"
+      }
+    ]
+  },
+    {
+        "sha": "0638294bac9517f56522a2608e5288085a5fb061",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-19T08:49:37Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-19T08:49:37Z"
+            },
+            "message": "feat(security): adding snyk support to test our dependencies for insecure vulnerabilities as part of our build process (#1519)",
+            "tree": {
+                "sha": "dd7cd9d8e2dc87885880d0106686caac811a6b69",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/dd7cd9d8e2dc87885880d0106686caac811a6b69"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/0638294bac9517f56522a2608e5288085a5fb061",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/0638294bac9517f56522a2608e5288085a5fb061",
+        "html_url": "https://github.com/meanjs/mean/commit/0638294bac9517f56522a2608e5288085a5fb061",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/0638294bac9517f56522a2608e5288085a5fb061/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+                "html_url": "https://github.com/meanjs/mean/commit/59c11c622eb4d6c526358dc5575fbbaa23d37c64"
+      }
+    ]
+  },
+    {
+        "sha": "59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+        "commit": {
+            "author": {
+                "name": "Pedro Rodrigues",
+                "email": "pgrodrigues@users.noreply.github.com",
+                "date": "2016-10-19T08:49:02Z"
+            },
+            "committer": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-19T08:49:02Z"
+            },
+            "message": "fix(core): fix twitter meta tags (#1581)\n\nI believe the Twitter meta tags are outdated and this PR fixes them.\r\nTaking into account the current MEAN.js tags and the Twitter docs, the most similar feature I found\r\nis the Twitter Summary Card (https://dev.twitter.com/cards/types/summary).",
+            "tree": {
+                "sha": "2011a991ae6d49e9864d438092ecee784e4157ec",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/2011a991ae6d49e9864d438092ecee784e4157ec"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+        "html_url": "https://github.com/meanjs/mean/commit/59c11c622eb4d6c526358dc5575fbbaa23d37c64",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/59c11c622eb4d6c526358dc5575fbbaa23d37c64/comments",
+        "author": {
+            "login": "pgrodrigues",
+            "id": 6011892,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/6011892?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/pgrodrigues",
+            "html_url": "https://github.com/pgrodrigues",
+            "followers_url": "https://api.github.com/users/pgrodrigues/followers",
+            "following_url": "https://api.github.com/users/pgrodrigues/following{/other_user}",
+            "gists_url": "https://api.github.com/users/pgrodrigues/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/pgrodrigues/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/pgrodrigues/subscriptions",
+            "organizations_url": "https://api.github.com/users/pgrodrigues/orgs",
+            "repos_url": "https://api.github.com/users/pgrodrigues/repos",
+            "events_url": "https://api.github.com/users/pgrodrigues/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/pgrodrigues/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4dd866992a8a5cd1046216b042845e41790f50b8",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/4dd866992a8a5cd1046216b042845e41790f50b8",
+                "html_url": "https://github.com/meanjs/mean/commit/4dd866992a8a5cd1046216b042845e41790f50b8"
+      }
+    ]
+  },
+    {
+        "sha": "4dd866992a8a5cd1046216b042845e41790f50b8",
+        "commit": {
+            "author": {
+                "name": "Sujeeth",
+                "email": "sujeethkv@yahoo.com",
+                "date": "2016-10-16T01:50:10Z"
+            },
+            "committer": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-16T01:50:10Z"
+            },
+            "message": "fix(config): config.app.domain -> config.domain (#1572)\n\nIssue brought up by @19r3ka\r\n\r\nFixes #1506",
+            "tree": {
+                "sha": "a2463c14890c713d54a2ed04403ba9091489d4d3",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/a2463c14890c713d54a2ed04403ba9091489d4d3"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/4dd866992a8a5cd1046216b042845e41790f50b8",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/4dd866992a8a5cd1046216b042845e41790f50b8",
+        "html_url": "https://github.com/meanjs/mean/commit/4dd866992a8a5cd1046216b042845e41790f50b8",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/4dd866992a8a5cd1046216b042845e41790f50b8/comments",
+        "author": {
+            "login": "sujeethk",
+            "id": 19917701,
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19917701?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/sujeethk",
+            "html_url": "https://github.com/sujeethk",
+            "followers_url": "https://api.github.com/users/sujeethk/followers",
+            "following_url": "https://api.github.com/users/sujeethk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/sujeethk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/sujeethk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/sujeethk/subscriptions",
+            "organizations_url": "https://api.github.com/users/sujeethk/orgs",
+            "repos_url": "https://api.github.com/users/sujeethk/repos",
+            "events_url": "https://api.github.com/users/sujeethk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/sujeethk/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+                "html_url": "https://github.com/meanjs/mean/commit/ef3b361c09c6b07ffb10f4e345638851ba232ea3"
+      }
+    ]
+  },
+    {
+        "sha": "ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+        "commit": {
+            "author": {
+                "name": "Michael Leanos",
+                "email": "michael.leanos@gmail.com",
+                "date": "2016-10-15T21:07:30Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-15T21:07:30Z"
+            },
+            "message": "fix(config): Default config dangling comma (#1570)\n\nRemoves the dangling comma from the default configuration db.promise\r\nsetting.",
+            "tree": {
+                "sha": "337a8c728be0d92f742c43005ec4f3abe405e6cc",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/337a8c728be0d92f742c43005ec4f3abe405e6cc"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+        "html_url": "https://github.com/meanjs/mean/commit/ef3b361c09c6b07ffb10f4e345638851ba232ea3",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/ef3b361c09c6b07ffb10f4e345638851ba232ea3/comments",
+        "author": {
+            "login": "mleanos",
+            "id": 5613734,
+            "avatar_url": "https://avatars1.githubusercontent.com/u/5613734?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mleanos",
+            "html_url": "https://github.com/mleanos",
+            "followers_url": "https://api.github.com/users/mleanos/followers",
+            "following_url": "https://api.github.com/users/mleanos/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mleanos/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mleanos/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mleanos/subscriptions",
+            "organizations_url": "https://api.github.com/users/mleanos/orgs",
+            "repos_url": "https://api.github.com/users/mleanos/repos",
+            "events_url": "https://api.github.com/users/mleanos/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mleanos/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "517dc32b69ea4f921937ec14b5f09f682768db17",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/517dc32b69ea4f921937ec14b5f09f682768db17",
+                "html_url": "https://github.com/meanjs/mean/commit/517dc32b69ea4f921937ec14b5f09f682768db17"
+      }
+    ]
+  },
+    {
+        "sha": "517dc32b69ea4f921937ec14b5f09f682768db17",
+        "commit": {
+            "author": {
+                "name": "Cody B. Daig",
+                "email": "codydaig@users.noreply.github.com",
+                "date": "2016-10-15T14:11:05Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-15T14:11:05Z"
+            },
+            "message": "promise(core): Add Promise Option to Mongoose (#1560)\n\nFixes #1559",
+            "tree": {
+                "sha": "5bfbc99c8c0da77ae7037c3e8f8a277852ab382a",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/5bfbc99c8c0da77ae7037c3e8f8a277852ab382a"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/517dc32b69ea4f921937ec14b5f09f682768db17",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/517dc32b69ea4f921937ec14b5f09f682768db17",
+        "html_url": "https://github.com/meanjs/mean/commit/517dc32b69ea4f921937ec14b5f09f682768db17",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/517dc32b69ea4f921937ec14b5f09f682768db17/comments",
+        "author": {
+            "login": "codydaig",
+            "id": 2314748,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/2314748?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/codydaig",
+            "html_url": "https://github.com/codydaig",
+            "followers_url": "https://api.github.com/users/codydaig/followers",
+            "following_url": "https://api.github.com/users/codydaig/following{/other_user}",
+            "gists_url": "https://api.github.com/users/codydaig/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/codydaig/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/codydaig/subscriptions",
+            "organizations_url": "https://api.github.com/users/codydaig/orgs",
+            "repos_url": "https://api.github.com/users/codydaig/repos",
+            "events_url": "https://api.github.com/users/codydaig/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/codydaig/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+                "html_url": "https://github.com/meanjs/mean/commit/b40cd2dbdbd66c371399bc96067f76a86caab6c9"
+      }
+    ]
+  },
+    {
+        "sha": "b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-15T07:37:46Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-15T07:37:46Z"
+            },
+            "message": "* feat(core): node engine update, adding cleanup and reinstall npm scripts\n\nNode engine updates and package.json additional scripts (#1567)\r\n* updated cleanup with 'npm cache clean' as well",
+            "tree": {
+                "sha": "57c8d443fbf39d5c0031004c3290bc1c9da24d80",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/57c8d443fbf39d5c0031004c3290bc1c9da24d80"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+        "html_url": "https://github.com/meanjs/mean/commit/b40cd2dbdbd66c371399bc96067f76a86caab6c9",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/b40cd2dbdbd66c371399bc96067f76a86caab6c9/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b9129a3de9394727ba1915f2a56e3cb2512191a6",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/b9129a3de9394727ba1915f2a56e3cb2512191a6",
+                "html_url": "https://github.com/meanjs/mean/commit/b9129a3de9394727ba1915f2a56e3cb2512191a6"
+      }
+    ]
+  },
+    {
+        "sha": "b9129a3de9394727ba1915f2a56e3cb2512191a6",
+        "commit": {
+            "author": {
+                "name": "Liran Tal",
+                "email": "liran.tal@gmail.com",
+                "date": "2016-10-14T19:20:58Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-10-14T19:20:58Z"
+            },
+            "message": "feat(node): replacing the outdated gulp-node-inspector\n\nReplacing deprecated gulp node inspector\r\nMerge pull request #1565 from lirantal/feat/replacing-gulp-node-inspector",
+            "tree": {
+                "sha": "53d7e11f81da88e2f38f7694e85dfe1ea4c45863",
+                "url": "https://api.github.com/repos/meanjs/mean/git/trees/53d7e11f81da88e2f38f7694e85dfe1ea4c45863"
+            },
+            "url": "https://api.github.com/repos/meanjs/mean/git/commits/b9129a3de9394727ba1915f2a56e3cb2512191a6",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/meanjs/mean/commits/b9129a3de9394727ba1915f2a56e3cb2512191a6",
+        "html_url": "https://github.com/meanjs/mean/commit/b9129a3de9394727ba1915f2a56e3cb2512191a6",
+        "comments_url": "https://api.github.com/repos/meanjs/mean/commits/b9129a3de9394727ba1915f2a56e3cb2512191a6/comments",
+        "author": {
+            "login": "lirantal",
+            "id": 316371,
+            "avatar_url": "https://avatars2.githubusercontent.com/u/316371?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lirantal",
+            "html_url": "https://github.com/lirantal",
+            "followers_url": "https://api.github.com/users/lirantal/followers",
+            "following_url": "https://api.github.com/users/lirantal/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lirantal/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lirantal/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lirantal/subscriptions",
+            "organizations_url": "https://api.github.com/users/lirantal/orgs",
+            "repos_url": "https://api.github.com/users/lirantal/repos",
+            "events_url": "https://api.github.com/users/lirantal/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lirantal/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d824224b2ff3250bb507dcbfe631cf8a17695b63",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/d824224b2ff3250bb507dcbfe631cf8a17695b63",
+                "html_url": "https://github.com/meanjs/mean/commit/d824224b2ff3250bb507dcbfe631cf8a17695b63"
+      },
+            {
+                "sha": "83ffc98efa49d703dbb3b306e66f2242d984a7a9",
+                "url": "https://api.github.com/repos/meanjs/mean/commits/83ffc98efa49d703dbb3b306e66f2242d984a7a9",
+                "html_url": "https://github.com/meanjs/mean/commit/83ffc98efa49d703dbb3b306e66f2242d984a7a9"
+      }
+    ]
+  }
+]
