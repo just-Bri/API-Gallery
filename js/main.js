@@ -1,25 +1,24 @@
+/*global $, jQuery, alert*/
+
 $(document).ready(function () {
-    var api = "https://api.github.com/repos/meanjs/mean/commits";
-    var twelveCommits = {}
-    var author = {};
-    var date = {};
-    var comment = {};
+    var arr = []; // Will store the random list of pokemon id #s
+    var pokeName = ""; // Had to declare there outside of the function, not sure why to be honest.
 
-    $.get(api, function (data) {
-        twelveCommits = data.slice(0, 12);
-        $.each(twelveCommits, function (idx, obj) {
-            author = obj.commit.committer.name;
-            date = obj.commit.committer.date;
-            comment = obj.commit.message;
+    // This took forever to figure out. I wanted unique numbers so that no pokemon is doubled.
+    while (arr.length < 12) {
+        var random_number = Math.round(Math.random() * (151) + 1);
+        if (arr.indexOf(random_number) === -1) {
+            arr.push(random_number);
+        }
+    }
 
-            console.log(author);
-            console.log(date);
-            console.log(comment);
+    arr.forEach(function (random) { // cycle through each number in arr
+        var pokeURL = "http://pokeapi.co/api/v1/pokemon/" + random;
+        var pokeImage = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + random + ".png";
+        $.getJSON(pokeURL, function (data) {
+            var pokeName = data.name;
+            console.log(pokeName);
+            document.getElementById('main').innerHTML += "<article class='pokeContainer'><img class='pokeImage' src=" + pokeImage + "></article>";
         });
     });
 });
-
-// This is getting the first 12 commits on the mean.js repo on Github.
-// Rework previous CodeAlong to put this information into a table
-// Make it Responsive
-// Make it not look like garbage :)
