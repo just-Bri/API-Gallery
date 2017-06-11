@@ -3,10 +3,10 @@
 
 $(document).ready(function () {
     lightbox.option({
-      'showImageNumberLabel': false,
-      'maxWidth': 400,
-      'maxHeight': 400
-  });
+        'showImageNumberLabel': false,
+        'maxWidth': 400,
+        'maxHeight': 400
+    });
     var pokeData = [];
     var arr = []; // Will store the random list of pokemon id #s
     var pokeName = ""; // Had to declare there outside of the function, not sure why to be honest.
@@ -28,16 +28,16 @@ $(document).ready(function () {
             var pokeWeight = "Weight: " + data.weight;
             var pokeHeight = "Height: " + data.height;
             for (i = 0; i < data.types.length; i++) {
-              if (typeof data.types[i].name != "undefined") {
-                pokeTypes.push(data.types[i].name);
-                console.log(data.types[i].name);
-              }
+                if (typeof data.types[i].name != "undefined") {
+                    pokeTypes.push(data.types[i].name);
+                    console.log(data.types[i].name); // Any console.log() you see is for my own debugging and practice during coding :)
+                }
             };
             pokeTypes = pokeTypes.join(', ');
             var pokeType = "Type(s): " + pokeTypes
             var pokeInfo = pokeName + "</br>" + pokeWeight + "</br>" + pokeHeight + "</br>" + pokeType;
             pokeTypes = [];
-            console.log(pokeName);
+            console.log(pokeName); // Any console.log() you see is for my own debugging and practice during coding :)
             document.getElementById('pokeTable').innerHTML += "<a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a>";
         });
     });
