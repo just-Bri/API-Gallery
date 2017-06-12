@@ -37,7 +37,7 @@ $(document).ready(function () {
             var pokeType = "Type(s): " + pokeTypes
             var pokeInfo = pokeName + "</br>" + pokeWeight + "</br>" + pokeHeight + "</br>" + pokeType;
             pokeTypes = [];
-            console.log(pokeName); // Any console.log() you see is for my own debugging and practice during coding :)
+            // console.log(pokeName); // Any console.log() you see is for my own debugging and practice during coding :)
             document.getElementById('pokeTable').innerHTML += "<a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a>";
         });
     });
