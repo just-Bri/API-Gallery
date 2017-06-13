@@ -5,7 +5,8 @@ $(document).ready(function () {
     lightbox.option({
         'showImageNumberLabel': false,
         'maxWidth': 400,
-        'maxHeight': 400
+        'maxHeight': 400,
+        'alwaysShowNavOnTouchDevices': true
     });
     var pokeData = [];
     var arr = []; // Will store the random list of pokemon id #s
@@ -30,7 +31,7 @@ $(document).ready(function () {
             for (i = 0; i < data.types.length; i++) {
                 if (typeof data.types[i].name != "undefined") {
                     pokeTypes.push(data.types[i].name);
-                    console.log(data.types[i].name); // Any console.log() you see is for my own debugging and practice during coding :)
+                    // console.log(data.types[i].name); // Any console.log() you see is for my own debugging and practice during coding :)
                 }
             };
             pokeTypes = pokeTypes.join(', ');
@@ -38,7 +39,7 @@ $(document).ready(function () {
             var pokeInfo = pokeName + "</br>" + pokeWeight + "</br>" + pokeHeight + "</br>" + pokeType;
             pokeTypes = [];
             // console.log(pokeName); // Any console.log() you see is for my own debugging and practice during coding :)
-            document.getElementById('pokeTable').innerHTML += "<a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a>";
+            document.getElementById('pokeTable').innerHTML += "<li><a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a></li>";
         });
     });
 });
