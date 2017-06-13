@@ -31,7 +31,7 @@ $(document).ready(function () {
             for (i = 0; i < data.types.length; i++) {
                 if (typeof data.types[i].name != "undefined") {
                     pokeTypes.push(data.types[i].name);
-                    // console.log(data.types[i].name); 
+                    // console.log(data.types[i].name);
                     // Any console.log() you see is for my own debugging and practice during coding
                 }
             };
