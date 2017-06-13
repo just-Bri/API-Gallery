@@ -38,9 +38,9 @@ $(document).ready(function () {
             pokeTypes = pokeTypes.join(', ');
             var pokeType = "Type(s): " + pokeTypes
             var pokeInfo = pokeName + "</br>" + pokeWeight + "</br>" + pokeHeight + "</br>" + pokeType;
-            pokeTypes = [];
+            pokeTypes = []; // This resets the pokeTypes variable so the next ID is fresh.
             // console.log(pokeName);
-            document.getElementById('pokeTable').innerHTML += "<li><a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a></li>";
+            document.getElementById('pokeTable').innerHTML += "<a class='pokeContainer gallery-image' href='" + pokeImage + "' data-lightbox='pokeBox' data-title='" + pokeInfo + "'>" + "<img class='pokeImage gallery-thumbnails' src=" + pokeImage + " alt=''></a>";
         });
     });
 });
