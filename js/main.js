@@ -8,7 +8,6 @@ $(document).ready(function () {
         'maxHeight': 400,
         'alwaysShowNavOnTouchDevices': true
     });
-    var pokeData = [];
     var arr = []; // Will store the random list of pokemon id #s
     var pokeName = ""; // Had to declare there outside of the function, not sure why to be honest.
     var pokeTypes = [];
