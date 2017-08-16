@@ -21,7 +21,7 @@ $(document).ready(function () {
     }
 
     arr.forEach(function (random) { // cycle through each number in arr
-        var pokeURL = "http://pokeapi.co/api/v1/pokemon/" + random;
+        var pokeURL = "https://pokeapi.co/api/v1/pokemon/" + random;
         var pokeImage = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + random + ".png";
         $.getJSON(pokeURL, function (data) {
             var pokeName = "Name: " + data.name;
